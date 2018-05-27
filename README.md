@@ -2,6 +2,8 @@
 
 This script will help you to privatify your history plurks.
 
+*NOTICE:* Due to Plurk API limition, only coin users can edit theirs plurk limitation.
+
 ## Dependencies
 
 I wrote this with some shell tools, we need these in our shell:
@@ -57,3 +59,17 @@ and it will print the next timestamp you can specify to continue privatify your 
 * [ ] Recognize API rate-limit error
 * [ ] Self-authorize tools
 * [ ] Auto-rolling privatify
+* [ ] Parallelize-operations
+
+## Disclaimer
+
+This tool won't upload or store your any privacy datas to another computer or cloud.
+
+Since this tool is all opensource and readable,
+any operations take from you are permitted by yourself.
+
+You must take responsibility for any data lost or mis-modified.
+
+## License
+
+All programs are under the MIT License.
